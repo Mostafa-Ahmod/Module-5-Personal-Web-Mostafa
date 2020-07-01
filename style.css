@@ -78,3 +78,37 @@ section {
 	 margin:auto;
 	 text-align:center;
 }
+.half-width{
+    width:40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.serviese {
+    box-shadow: 10px 10px 30px gray;
+    border-radius: 10px;
+    height: 80%;
+    padding: 15px;
+    background-color: white;
+}
+#key-serivce{
+    border-left: 7px solid;
+    border-image: linear-gradient(90deg, rgb(236,76,122),tomato);
+    border-image-slice: 1;
+}
+#hire-me{
+    border-left: 7px solid;
+       border-image: linear-gradient(90deg, rgb(236,76,122),tomato);
+      border-image-slice: 1;
+}
+.bottom-class{
+     padding-bottom: 40px;
+}
+.centering-text {
+     text-align: center;
+}
+.footer-section{
+     text-align: center;
+     font-size: smaller;
+     color: dimgray;
+}
